@@ -43,12 +43,12 @@
 
 <div>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=FabricioAltafiniTeodoro&layout=donut&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=FabricioAltafiniTeodoro&layout=donut&langs_count=4&theme=tokyonight"  />
+
+  <img align="right" height="265" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif"  />
+  
 </div>
 
 <br clear="both">
-
-<img align="right" height="165" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif"  />
-
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/FernandinOficial/FernandinOficial/output/github-contribution-grid-snake-dark.svg">
