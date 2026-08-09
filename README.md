@@ -229,15 +229,17 @@ Projeto criado para apresentar informações sobre o país através de uma inter
 
 <div align="center">
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=FabricioAltafiniTeodoro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-/>
+  <img
+    height="180"
+    src="./profile/stats.svg"
+    alt="Estatísticas do GitHub"
+  />
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioAltafiniTeodoro&layout=compact&theme=github_dark&hide_border=true"
-/>
+  <img
+    height="180"
+    src="./profile/top-langs.svg"
+    alt="Linguagens mais utilizadas"
+  />
 
 </div>
 
@@ -245,10 +247,10 @@ Projeto criado para apresentar informações sobre o país através de uma inter
 
 <div align="center">
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioAltafiniTeodoro&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
-/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioAltafiniTeodoro&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 
 </div>
 
