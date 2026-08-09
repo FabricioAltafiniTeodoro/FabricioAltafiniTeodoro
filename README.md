@@ -1,68 +1,284 @@
+<!-- ========================= -->
+<!--        BANNER             -->
+<!-- ========================= -->
 
-# Fabrício Teodoro <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/85210868-13d3-45e3-a027-4f760da13d8c"/>
+  <img 
+    src="./assets/BannerGitHub.png "
+    alt="Banner Fabrício Altafini Teodoro"
+    width="100%"
+  />
 
-**`Desenvolvedor de Sistema em Multiplataforma`** 
 
-<div align="le">
-<p>Me chamo Fabrício Altafini Teodoro, tenho 19 anos e  sou naciodo em SP/Itapira. Sou formado em Tecnico em Informado pelo SENAC e atualmente estou cursando o Desenvolvimento de sistemas multiplataforma pela FATEC.</p>
+<br>
+
+<!-- ========================= -->
+<!--       APRESENTAÇÃO        -->
+<!-- ========================= -->
+
+<h1 align="center">
+  Olá, eu sou o Fabrício! 👋
+</h1>
+
+<h3 align="center">
+  Desenvolvedor de Software | Desenvolvimento de Sistemas Multiplataforma
+</h3>
+
+<p align="center">
+  Técnico em Informática pelo SENAC e estudante de Desenvolvimento de
+  Sistemas Multiplataforma na FATEC.
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!--          CONTATO          -->
+<!-- ========================= -->
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/fabricio-altafini/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img
+      src="https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="E-mail"
+    />
+  </a>
+
+  <a href="https://github.com/FabricioAltafiniTeodoro">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor de software com formação técnica em **Informática pelo SENAC** e atualmente curso **Desenvolvimento de Sistemas Multiplataforma na FATEC**.
+
+Busco evoluir constantemente minhas habilidades através de projetos acadêmicos, projetos pessoais e desenvolvimento de sistemas voltados para problemas reais.
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>💻 Código limpo</b>
+    </td>
+    <td align="center" width="25%">
+      <b>🧩 Resolução de problemas</b>
+    </td>
+    <td align="center" width="25%">
+      <b>🚀 Foco em resultados</b>
+    </td>
+    <td align="center" width="25%">
+      <b>📚 Aprendizado contínuo</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🚀 Projetos em destaque
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🔵 GoraGO
+
+**Plataforma de vagas e estágios para estudantes e empresas.**
+
+O sistema busca facilitar o encontro entre estudantes procurando oportunidades e empresas interessadas em novos talentos.
+
+**Funcionalidades**
+
+- Cadastro de candidatos
+- Cadastro de empresas
+- Publicação de vagas
+- Busca de oportunidades
+- Processo seletivo
+- Área do candidato
+- Área da empresa
+
+**Tecnologias**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br>
+
+<a href="https://github.com/FabricioAltafiniTeodoro/projeto_gorago">
+  <b>🔗 Ver repositório →</b>
+</a>
+
+</td>
+
+
+<td width="33%" valign="top">
+
+### ✂️ Salão Novo Estilo
+
+**Sistema web desenvolvido para gerenciamento e apresentação de serviços de salão.**
+
+Projeto desenvolvido utilizando PHP e tecnologias web.
+
+**Funcionalidades**
+
+- Interface web
+- Organização de serviços
+- Estrutura em PHP
+- Integração com páginas do sistema
+- Layout responsivo
+
+**Tecnologias**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+<br>
+
+<a href="https://github.com/FabricioAltafiniTeodoro/pj_salaonovoestilo">
+  <b>🔗 Ver repositório →</b>
+</a>
+
+</td>
+
+
+<td width="33%" valign="top">
+
+### 🇨🇦 Projeto Canadá
+
+**Website informativo e responsivo sobre o Canadá.**
+
+Projeto criado para apresentar informações sobre o país através de uma interface moderna e organizada.
+
+**Conteúdo**
+
+- Sobre o Canadá
+- Pontos turísticos
+- Curiosidades
+- Culinária
+- Interface responsiva
+
+**Tecnologias**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<br>
+
+<a href="https://github.com/FabricioAltafiniTeodoro/Fatec-Fabricio">
+  <b>🔗 Ver projeto →</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="right">
+  <a href="https://github.com/FabricioAltafiniTeodoro?tab=repositories">
+    Ver todos os repositórios →
+  </a>
+</p>
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
+### 🌐 Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⚙️ Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,cs" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=FabricioAltafiniTeodoro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioAltafiniTeodoro&layout=compact&theme=github_dark&hide_border=true"
+/>
+
 </div>
 
-<div align="left">
-  <a href="https://www.instagram.com/fabricioaltafiniteodoro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/fabricio-altafini-teodoro-0242b0264/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100084742337285" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioAltafiniTeodoro&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
+
 </div>
 
 ---
 
-# Linguagem e tecnologias <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8b9f0ff8-6a96-4086-9da4-d8369dfd47c4" /> 
+# 🐍 Contribuições
 
+<p align="center">
 
+  <img
+    src="https://raw.githubusercontent.com/FabricioAltafiniTeodoro/FabricioAltafiniTeodoro/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+</p>
 
-# Estatisticas
+---
 
-<div>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=FabricioAltafiniTeodoro&layout=donut&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=FabricioAltafiniTeodoro&layout=donut&langs_count=4&theme=tokyonight"  />
+<div align="center">
 
-  <img align="right" height="265" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif"  />
-  
-</div>
+### ⭐ Transformando ideias em soluções através da tecnologia.
 
-<br clear="both">
-
-<picture>
-  <source srcset="https://raw.githubusercontent.com/FernandinOficial/FernandinOficial/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/FernandinOficial/FernandinOficial/output/github-contribution-grid-snake.svg">
-</picture>
+Obrigado por visitar meu perfil!
 
 <br>
-<br>
 
+<a href="https://github.com/FabricioAltafiniTeodoro">
+  <img
+    src="https://img.shields.io/github/followers/FabricioAltafiniTeodoro?label=Follow&style=social"
+  />
+</a>
 
-
-
-
-
-
-
-
+</div>
