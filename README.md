@@ -43,10 +43,11 @@
     />
   </a>
 
-  <a href="mailto:fabricioaltafiniteodo@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fabricioaltafiniteodo@gmail.com&su=Contato%20pelo%20GitHub"
+   target="_blank">
     <img
-      src="https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="E-mail"
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Enviar e-mail"
     />
   </a>
 
