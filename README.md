@@ -154,7 +154,6 @@ Projeto criado para apresentar informações sobre o país através de uma inter
 - Pontos turísticos
 - Curiosidades
 - Culinária
-- Interface responsiva
 
 **Tecnologias**
 
