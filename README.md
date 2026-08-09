@@ -36,7 +36,7 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/fabricio-altafini/">
+  <a href="https://www.linkedin.com/in/fabrício-teodoro-0242b0264/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
