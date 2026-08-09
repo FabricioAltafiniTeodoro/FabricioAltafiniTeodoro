@@ -163,7 +163,7 @@ Projeto criado para apresentar informações sobre o país através de uma inter
 
 <br>
 
-<a href="https://github.com/FabricioAltafiniTeodoro/Fatec-Fabricio">
+<a href="https://github.com/FabricioAltafiniTeodoro/Fatec-Fabricio/tree/main/ProjetoCanada">
   <b>🔗 Ver projeto →</b>
 </a>
 
