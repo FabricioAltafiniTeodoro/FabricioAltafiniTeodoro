@@ -51,24 +51,6 @@ Sou desenvolvedor de software com formação técnica em **Informática pelo SEN
 Busco evoluir constantemente minhas habilidades através de projetos acadêmicos, projetos pessoais e desenvolvimento de sistemas voltados para problemas reais.
 
 <br>
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>💻 Código limpo</b>
-    </td>
-    <td align="center" width="25%">
-      <b>🧩 Resolução de problemas</b>
-    </td>
-    <td align="center" width="25%">
-      <b>🚀 Foco em resultados</b>
-    </td>
-    <td align="center" width="25%">
-      <b>📚 Aprendizado contínuo</b>
-    </td>
-  </tr>
-</table>
-
 ---
 
 # 🚀 Projetos em destaque
