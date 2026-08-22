@@ -223,11 +223,12 @@ Projeto criado para apresentar informações sobre o país através de uma inter
 # 🐍 Contribuições
 
 <p align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/FabricioAltafiniTeodoro/FabricioAltafiniTeodoro/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
-  />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabricioAltafiniTeodoro/FabricioAltafiniTeodoro/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabricioAltafiniTeodoro/FabricioAltafiniTeodoro/output/snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/FabricioAltafiniTeodoro/FabricioAltafiniTeodoro/output/snake.svg">
+  </picture>
 
 </p>
 
